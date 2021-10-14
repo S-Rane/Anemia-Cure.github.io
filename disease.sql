@@ -2,7 +2,7 @@
 -- version 5.1.1
 -- https://github.com/S-Rane/Anemia-Cure.github.io.git
 --
--- Host: 127.0.0.1
+-- Host: https://github.com/S-Rane/Anemia-Cure.github.io.git
 -- Generation Time: Sep 26, 2021 at 09:23 AM
 -- Server version: 10.4.20-MariaDB
 -- PHP Version: 8.0.8
