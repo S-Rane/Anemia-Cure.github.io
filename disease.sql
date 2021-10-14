@@ -1,6 +1,6 @@
 -- phpMyAdmin SQL Dump
 -- version 5.1.1
--- https://www.phpmyadmin.net/
+-- https://github.com/S-Rane/Anemia-Cure.github.io.git
 --
 -- Host: 127.0.0.1
 -- Generation Time: Sep 26, 2021 at 09:23 AM
